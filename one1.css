@@ -1,0 +1,33 @@
+h1{
+	color:red;
+	font-family:jokerman;
+	font-size:100px;
+	background-color:pink;
+	text-decoration:underline red 5px;
+	border: solid 5px;
+	border-color:green;
+	
+
+}
+
+p{
+	background-color:pink;
+	text-align:center;
+	font-family:jokerman;
+	text-shadow:1px 1px 2px;
+	text-decoration: italic;
+	text-decoration:border-visibility;
+	border: solid 5px;
+	border-color:green;
+}
+
+body{
+	background-color:lightblue;
+	background-image: url('ks.png');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: bottom center;
+	background-size: 400px 400px ;
+}
+	
+	
